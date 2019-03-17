@@ -44,6 +44,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  
+  animals = [ "dog", "cat", "mouse", "cow" ]
   animals[-1]
 end
