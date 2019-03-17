@@ -24,13 +24,13 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  animals = [ "dog", "cat", "mouse", "cow" ]
+  animals = [ "dog", "cat", "mouse", "cow" , "arrays!" ]
   animals.unshift
   
 end
 
 def retrieve_element_from_index(array, index_number)
-  animals = [ "dog", "cat", "mouse", "cow" ]
+  animals = [ "dog", "cat", "mouse", "cow" , "arrays!" ]
   animals[2]
   
   
