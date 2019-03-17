@@ -31,7 +31,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   animals = [ "dog", "cat", "mouse", "cow" , "arrays!" ]
-  animals[2]
+  animals[4]
   
   
 end
