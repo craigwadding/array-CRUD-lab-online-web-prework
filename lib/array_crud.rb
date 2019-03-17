@@ -1,7 +1,6 @@
 def create_an_empty_array
   []
-  
-end
+  end
 
 def create_an_array
   animals = [ "dog", "cat", "mouse", "cow" ]
