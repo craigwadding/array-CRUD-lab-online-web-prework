@@ -25,7 +25,7 @@ end
 
 def remove_element_from_start_of_array(array)
   animals = [ "dog", "cat", "mouse", "cow" ]
-  animals#unshift
+  animals.unshift
   
 end
 
