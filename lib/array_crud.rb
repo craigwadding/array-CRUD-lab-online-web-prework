@@ -4,17 +4,17 @@ def create_an_empty_array
 end
 
 def create_an_array
-  animals = ["dog", "cat", "mouse", "cow"]
+  animals = [ "dog", "cat", "mouse", "cow" ]
   
 end
 
 def add_element_to_end_of_array(array, element)
-  animals.push("bird")
+  animals.push( "bird" )
   
 end
 
 def add_element_to_start_of_array(array, element)
-  animals#unshift("rat")
+  animals.unshift( "rat" )
 end
 
 def remove_element_from_end_of_array(array)
